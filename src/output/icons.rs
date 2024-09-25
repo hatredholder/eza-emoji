@@ -68,7 +68,7 @@ impl Icons {
     const LANG_OCAML: char      = '\u{1f42a}'; // 🐪
     const LANG_PERL: char       = '\u{1f42a}'; // 🐪
     const LANG_PHP: char        = '\u{1f418}'; // 🐘
-    const LANG_PYTHON: char     = '\u{e606}';  // 🐍
+    const LANG_PYTHON: char     = '\u{1f40d}'; // 🐍
     const LANG_R: char          = '\u{1f4c4}'; // 📄
     const LANG_RUBY: char       = '\u{1f48e}'; // 💎
     const LANG_RUBYRAILS: char  = '\u{1f48e}'; // 💎
